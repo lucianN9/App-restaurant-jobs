@@ -1,0 +1,88 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Junior Sous Chef - Pastry",
+      "type": "Part-Time",
+      "description": "To ensure the smooth operation of the department in charge by optimizing the use of materials and manpower, thereby maximizing revenue and guest satisfaction.",
+      "location": "Bucharest, RO",
+      "salary": "$800 - $1K",
+      "company": {
+        "name": "Prime À la Carte",
+        "description": "A luxury hospitality brand for modern travelers, Prime À la Carte connects guests to genuine places, people and stories through personal experiences and providing heartfelt hospitality in the world’s most exciting destinations. From pristine islands and tropical beaches to cosmopolitan cities, tranquil deserts and lush jungles, Prime À la Carte welcomes guests for journeys rich in discovery.",
+        "contactEmail": "primeCarte@hirings.com",
+        "contactPhone": "999-555-999"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Chef De Partie Restaurant and Bar",
+      "type": "Full-Time",
+      "location": "Cluj, RO",
+      "description": "The Chef de Partie is responsible to supervise the assigned station / section of the outlet kitchen, in order to prepare a consistent, high quality product and ensure courteous, professional, efficient and flexible service that supports the outlet’s operating concept and international standards.",
+      "salary": "$1K - $2K",
+      "company": {
+        "name": "Prime À la Carte",
+        "description": "A luxury hospitality brand for modern travelers, Prime À la Carte connects guests to genuine places, people and stories through personal experiences and providing heartfelt hospitality in the world’s most exciting destinations. From pristine islands and tropical beaches to cosmopolitan cities, tranquil deserts and lush jungles, Prime À la Carte welcomes guests for journeys rich in discovery.",
+        "contactEmail": "primeCarte@hirings.com",
+        "contactPhone": "999-555-999"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Kitchen Administrator",
+      "type": "Full-Time",
+      "location": "Iasi, RO",
+      "description": "To assist the Chef de Cuisine in managing his / her assigned kitchen operation as a successful independent profit center, ensuring maximum guest satisfaction, through planning, organizing, directing, and controlling the Kitchen operation and administration.",
+      "salary": "$900 - $1K",
+      "company": {
+        "name": "Prime À la Carte",
+        "description": "A luxury hospitality brand for modern travelers, Prime À la Carte connects guests to genuine places, people and stories through personal experiences and providing heartfelt hospitality in the world’s most exciting destinations. From pristine islands and tropical beaches to cosmopolitan cities, tranquil deserts and lush jungles, Prime À la Carte welcomes guests for journeys rich in discovery.",
+        "contactEmail": "primeCarte@hirings.com",
+        "contactPhone": "999-555-999"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Senior Sommelier",
+      "type": "Part-Time",
+      "description": "As the Senior Sommelier, you will be reporting to the Asst. Head Sommelier and/or Head Sommelier and work alongside them to ensure professional, efficient, and accurate service of all types of wine to exceed guests’ expectations during their experience.",
+      "location": "Bucharest, RO",
+      "salary": "$1K - $1.5K",
+      "company": {
+        "name": "Prime À la Carte",
+        "description": "A luxury hospitality brand for modern travelers, Prime À la Carte connects guests to genuine places, people and stories through personal experiences and providing heartfelt hospitality in the world’s most exciting destinations. From pristine islands and tropical beaches to cosmopolitan cities, tranquil deserts and lush jungles, Prime À la Carte welcomes guests for journeys rich in discovery.",
+        "contactEmail": "primeCarte@hirings.com",
+        "contactPhone": "999-555-999"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Head Chef (Asian Cuisine)",
+      "type": "Full-Time",
+      "description": "As Head Chef, you are responsible for contributing to menu creation and managing and training the kitchen brigade to deliver an excellent experience. A Head Chef will also be required to manage food cost controls. Specifically, you will be responsible for performing the following tasks to the highest standards.",
+      "location": "Brasov, RO",
+      "salary": "$1.5k - $2K",
+      "company": {
+        "name": "Prime À la Carte",
+        "description": "A luxury hospitality brand for modern travelers, Prime À la Carte connects guests to genuine places, people and stories through personal experiences and providing heartfelt hospitality in the world’s most exciting destinations. From pristine islands and tropical beaches to cosmopolitan cities, tranquil deserts and lush jungles, Prime À la Carte welcomes guests for journeys rich in discovery.",
+        "contactEmail": "primeCarte@hirings.com",
+        "contactPhone": "999-555-999"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Restaurants Manager",
+      "type": "Full-Time",
+      "description": "The Restaurant Manager is responsible for ensuring the smooth and efficient operation of the restaurant within the exclusive member club. They oversee all aspects of dining service, including staffing, customer satisfaction, and quality control, to deliver an exceptional dining experience for members and guests.",
+      "location": "Craiova, RO",
+      "salary": "$2k - $2.5k",
+      "company": {
+        "name": "Prime À la Carte",
+        "description": "A luxury hospitality brand for modern travelers, Prime À la Carte connects guests to genuine places, people and stories through personal experiences and providing heartfelt hospitality in the world’s most exciting destinations. From pristine islands and tropical beaches to cosmopolitan cities, tranquil deserts and lush jungles, Prime À la Carte welcomes guests for journeys rich in discovery.",
+        "contactEmail": "primeCarte@hirings.com",
+        "contactPhone": "999-555-999"
+      }
+    }
+  ]
+}
